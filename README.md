@@ -1,5 +1,6 @@
 # spring-boot-study
 스프링 부트 관련 강의를 수강하고 정리하는 페이지 입니다.
+
 ![img](https://github.com/al1kite/spring-wiki/assets/102217402/c9ea5fc8-6b5d-4def-94b0-644c30159aa7)
 
 ## 수강할 강의
