@@ -1,7 +1,7 @@
 # spring-boot-study
 스프링 부트 관련 강의를 수강하고 정리하는 페이지 입니다.
 
-![img](https://github.com/al1kite/spring-wiki/assets/102217402/c9ea5fc8-6b5d-4def-94b0-644c30159aa7)
+![spring boot](https://github.com/al1kite/spring-wiki/assets/102217402/dc962325-e022-4c5a-ab78-e46efdb843f1)
 
 ## 수강할 강의
 - [우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)
